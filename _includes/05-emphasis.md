@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+- _I am_ **Hemant Krishnan** 😎
+- _I have learned_ **Markdown Langauge** 😄
+* _GitHub is an **Awsome Platform to learn**_ ✨
